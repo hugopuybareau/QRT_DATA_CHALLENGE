@@ -1,0 +1,6 @@
+# Environnements virtuels 
+env_qrt/
+.env_qrt/
+
+# Fichiers trop lourds
+data/
