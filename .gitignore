@@ -1,6 +1,11 @@
 # Environnements virtuels 
 env_qrt/
 .env_qrt/
+env_qrt_smac/
+.env_qrt_smac/
 
 # Fichiers trop lourds
 data/
+
+# ??
+.DS_Store
