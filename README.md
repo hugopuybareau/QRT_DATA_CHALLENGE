@@ -1,6 +1,6 @@
 # QRT Data Challenge
 
-This repository contains my submission for the QRT Data Challenge, where I finished **3rd**. The challenge focused on predicting the outcomes of football matches (home win, draw, away win) using advanced data preprocessing, feature engineering, and machine learning models.
+This repository contains my submission for the QRT Data Challenge 2024, where I finished **5th**. The challenge focused on predicting the outcomes of football matches (home win, draw, away win) using advanced data preprocessing, feature engineering, and machine learning models.
 
 ## Project Overview
 
