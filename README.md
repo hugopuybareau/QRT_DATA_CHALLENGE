@@ -28,3 +28,7 @@ To run the provided notebooks, clone the repository and install the required dep
 git clone https://github.com/hugopuybareau/QRT_DATA_CHALLENGE.git
 cd QRT_DATA_CHALLENGE
 
+## Certificate
+
+![Official certificate](screenshot/certificate.png "Certificate")
+
