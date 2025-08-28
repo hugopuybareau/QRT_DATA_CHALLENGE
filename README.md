@@ -20,8 +20,7 @@ The objective was to build a model capable of accurately predicting match result
 
 ### 3. Cross-validation and Final Submission
 - Used **Stratified KFold** cross-validation to avoid overfitting and ensure robust performance.
-- The final model was selected based on a combination of accuracy metrics and cross-validation scores. However, the exact solution that led to the **3rd place** finish is not included in this repository.
-
+- The final model was selected based on a combination of accuracy metrics and cross-validation scores.
 ## Usage
 
 To run the provided notebooks, clone the repository and install the required dependencies:
